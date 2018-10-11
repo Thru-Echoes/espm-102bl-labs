@@ -1,6 +1,6 @@
 # Natural Resource Sampling (ESPM 102b)
 
-Hello!
+Hello - here are notes, hints, references, etc for *UC Berkeley fall 2018 ESPM 102b: Natural Resource Sampling.*
 
 ## Note on linear regression
 
@@ -19,3 +19,9 @@ Does the point all the way to the right follow the same trend as the others? Wha
 To prove my points above: 
 
 I created a polynomial (non-linear) "trend of best fit" of order 6 and has an R^2 value of 0.69. Linear regression has an R^2 value of 0.64. Thus, a non-linear model out-performs the linear regression model. So a non-linear and curved trend is a better fit for this relationship (i.e. height of trees and diameter).
+
+## References
+
+[Steps to calculate standard error](https://www.radford.edu/~biol-web/stats/standarderrorcalc.pdf)
+
+[Standard error of the mean as a function of sample size](http://davidmlane.com/hyperstat/A107371.html)
