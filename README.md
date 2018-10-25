@@ -42,4 +42,4 @@ iii) Cost of sampling across stratum
 
 ## 4. Misc
 
-By popular demand, here is a [link to a 7-song album (and another 5-song album)]() that I wrote, performed, recorded, and produced back when I was an undergrad in 2011.
+By popular demand, here is a [link to a 7-song album (and another 5-song album)](https://ahburrmolercaine.bandcamp.com/album/development) that I wrote, performed, recorded, and produced back when I was an undergrad in 2011.
